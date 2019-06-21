@@ -1,5 +1,5 @@
 # layx
-[layx.png]
+![Alt text](layx.png)
 # Requirements/Dependencies
 * Python3.x
 * pip3
