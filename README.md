@@ -1,5 +1,5 @@
 # layx
-[image](layx.png)
+[layx.png]
 # Requirements/Dependencies
 * Python3.x
 * pip3
